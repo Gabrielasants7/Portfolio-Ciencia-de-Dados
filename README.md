@@ -17,9 +17,7 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 
  ##  Conteúdo
 
-### Análise (EDA)  e visualização de dados
-
-- [Análise exploratória, somada a um loop com os seguintes classificadores](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/blob/main/EDA_VINHOS.ipynb) 
+## Análise (EDA)  e visualização de dados- [Análise exploratória, somada a um loop com os seguintes classificadores](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/blob/main/EDA_VINHOS.ipynb) 
  
  
 ◀ Support vector machines (SVMs)
@@ -36,11 +34,19 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 
 ◀ Naive Bayes
 
-### Aprendizado de máquina
 
-### Processamento de linguagem natural
+## Aprendizado de máquina
 
-### API 
+
+
+## Processamento de linguagem natural
+
+
+
+
+## API 
  
- 
+
+
+
  

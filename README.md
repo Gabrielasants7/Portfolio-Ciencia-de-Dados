@@ -77,11 +77,15 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 [certif.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725023/certif.pdf)
 
 -   (  NLP)
-[UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725040/UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.pdf
+[UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725040/UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.)
 
 
-- ( Aprendizado de  maquina de  A/Z
-[UC-d991370f-0480-42a6-88fc-e9f613a16928.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725122/UC-d991370f-0480-42a6-88fc-e9f613a16928. pdf)
+- Aprendizado de maquina de A/Z
+[UC-d991370f-0480-42a6-88fc-e9f613a16928.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725164/UC-d991370f-0480-42a6-88fc-e9f613a16928.pdf)
+
+
+
+
 
 
 

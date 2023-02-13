@@ -49,7 +49,7 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
  
 
 
-##  Certificados 
+##  Certifs
  
  
  

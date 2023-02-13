@@ -21,19 +21,7 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 - [Análise exploratória, somada a um loop com os seguintes classificadores](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/blob/main/EDA_VINHOS.ipynb) 
  
  
-◀ Support vector machines (SVMs)
 
-◀ Regressão logística
-
-◀ KNearest Neighbors
-
-◀ floresta aleatória
-
-◀ Decision Trees
-
-◀ GradientBoosting
-
-◀ Naive Bayes
 
 
 ## Aprendizado de máquina

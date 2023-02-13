@@ -1,6 +1,9 @@
 ##  Portfólio de Ciência de Dados (Em Português 🇧🇷)            
 
 
+![Learn Data Science](https://user-images.githubusercontent.com/89526250/218547328-6e7a0c0d-2ae8-450c-a79c-61fc8c40484b.png)
+
+
 
 Status do Projeto:  (Em andamento)
 

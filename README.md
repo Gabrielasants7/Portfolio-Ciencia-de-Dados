@@ -80,7 +80,9 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 [UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725040/UC-a1c6b4d5-d6ea-4854-ae3a-0091f777acd5.pdf)
 
 
+## Credenciais
 
+https://www.credly.com/earner/earned
 
 
 

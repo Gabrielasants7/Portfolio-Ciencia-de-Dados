@@ -21,7 +21,7 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
  ##  Conteúdo
 
 ## Análise (EDA)  e visualização de dados- 
-- [Análise exploratória, somada a um loop com os seguintes classificadores](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/blob/main/EDA_VINHOS.ipynb) 
+- [Análise exploratória]
  
  
 
@@ -64,7 +64,7 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 - ( Implantando  IA)
 [AI Ladder Deploying AI in your Enterprise_Course completion certificate.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725017/AI.Ladder.Deploying.AI.in.your.Enterprise_Course.completion.certificate.pdf)
 
--  (Metodologias  cie
+-  (Metodologias  DS)
 [certif.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10725023/certif.pdf)
 
 -   (  NLP)

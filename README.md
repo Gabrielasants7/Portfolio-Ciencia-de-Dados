@@ -77,6 +77,8 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 
 
 
+-  ( Painéis Python interativos com Plotly e Dash) [plotly.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10900312/plotly.pdf)
+
 
 
 

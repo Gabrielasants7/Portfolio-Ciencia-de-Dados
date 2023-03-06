@@ -81,6 +81,10 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 
 
 
+-  ( Spark e Python para Big Data com PySpark) [Spark.pdf](https://github.com/Gabrielasants7/Portfolio-Ciencia-de-Dados/files/10903943/Spark.pdf)
+
+
+
 
 ## Credenciais
 

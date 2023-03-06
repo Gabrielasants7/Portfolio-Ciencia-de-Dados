@@ -84,6 +84,9 @@ Repositório contém  projetos de ciência de dados concluídos por mim para fin
 
 ## Credenciais
 
+<img width="1509" alt="Captura de Tela 2023-03-06 às 13 50 25" src="https://user-images.githubusercontent.com/89526250/223176854-6858318d-3231-49d0-989f-b0cd223b1f1f.png">
+
+
 https://www.credly.com/earner/earned
 
 

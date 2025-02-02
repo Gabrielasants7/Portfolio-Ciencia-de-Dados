@@ -79,7 +79,13 @@ Além disso, o diferencial do projeto será o suporte a **tradução automática
 
 ## Interface
 
+**Antes de enviar o arquivo**
 ![image](https://github.com/user-attachments/assets/4c087ca9-19a7-4a59-b7d2-f7b0ecad51c4)
+
+---
+**Depois de enviar o arquivo**
+![image](https://github.com/user-attachments/assets/2fe2fc57-c6e7-40db-81a9-389507fb4b67)
+
 
 ---
 

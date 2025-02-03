@@ -32,7 +32,7 @@ https://www.credly.com/earner/earned
 
 # Primeiro Projeto 
 
-## Assistente de Reuniões com IA
+## Assistente de Reuniões utilizando Langchain
 
 O objetivo deste projeto é desenvolver um **Assistente de Reuniões** que transcreve em tempo real as discussões durante as reuniões e organiza as informações chave, como **ideias**, **decisões**, **itens de ação** e **prazos**. O assistente não só realiza a transcrição, mas também cria atas de reunião estruturadas e acionáveis, permitindo que os participantes da reunião possam se concentrar na discussão sem se preocupar em perder detalhes importantes.
 

@@ -36,7 +36,10 @@ https://www.credly.com/earner/earned
 
 O objetivo deste projeto é desenvolver um **Assistente de Reuniões** que transcreve em tempo real as discussões durante as reuniões e organiza as informações chave, como **ideias**, **decisões**, **itens de ação** e **prazos**. O assistente não só realiza a transcrição, mas também cria atas de reunião estruturadas e acionáveis, permitindo que os participantes da reunião possam se concentrar na discussão sem se preocupar em perder detalhes importantes.
 
-Além disso, o diferencial do projeto será o suporte a **tradução automática** entre **português** e **inglês**, com foco em trabalhadores brasileiros que ainda estão em processo de adaptação à língua inglesa. A ferramenta ajudará na transição e facilitará a compreensão em tempo real, sem barreiras linguísticas.
+Além disso, o diferencial do projeto será o suporte a **tradução automática** entre **português** e **inglês**, com foco em trabalhadores brasileiros que ainda estão em processo de adaptação à língua inglesa. A ferramenta ajudará na transição e facilitará a compreensão em tempo real, sem barreiras linguísticas. 
+
+Você encontra esse projeto aqui ou diretamente pelo colab, o link está abaixo .
+https://colab.research.google.com/drive/1G6B7LwaeHwj3QMH28-t_lroi5WpprdqT?pli=1#scrollTo=UWM3-tQh2Kep
 
 ##  Funcionalidades
 
